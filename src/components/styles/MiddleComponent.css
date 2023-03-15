@@ -1,0 +1,13 @@
+@media only screen and (min-width: 640px){
+    #img{
+        height: 8rem;
+        width: 8rem;
+    }
+}
+
+@media only screen and (min-width : 1280px){
+    #img{
+        height: 15rem;
+        width: 15rem;
+    }
+}

@@ -1,0 +1,24 @@
+@media only screen and (max-width: 639px) {
+    #componentDiv{
+        display : flex;
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 639px) {
+    #leftComponentDiv{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 639px) {
+    #middleComponentDiv{
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 639px) {
+    #leftComponentDiv{
+        width: 100%;
+    }
+}
